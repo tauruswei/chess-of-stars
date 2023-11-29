@@ -1,6 +1,7 @@
 # Sample Hardhat Project
 ## 注意
 1、修改 .env 配置文件的变量：BSCSCAN_API_KEY、PRIVATE_KEY、BSCTESTNET_RPC_URL
+
 2、部署合约的顺序的是 EVIC、TokenExchange、FundsPool
 
 ## 部署合约demo
