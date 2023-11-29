@@ -1,0 +1,2483 @@
+{
+  "manifestVersion": "3.2",
+  "proxies": [
+    {
+      "address": "0xeEAAA85f72F6087b47a133ACC5977714cfAdCe47",
+      "txHash": "0x829b1b74a5cb1b0f50222ad5c510a57b497043360c44ce305aab72d137d8ba8b",
+      "kind": "uups"
+    },
+    {
+      "address": "0xf6921870DE37f1D46F57a5c140F66a3016992252",
+      "txHash": "0x1e3b31da4de7228eab6ad55c643c2b93788a4a483b433c2d40feaba8555a7b40",
+      "kind": "uups"
+    },
+    {
+      "address": "0x8964A4cc391dCd12419e5328468cB6F0b3101681",
+      "txHash": "0x81466c9a58f8fde698f38b07564139a9de743b7f161529fc884c15f4e5fba478",
+      "kind": "uups"
+    },
+    {
+      "address": "0xDB2115aE064680671368AaBa566F27660FB91dF7",
+      "txHash": "0x36d077861a8d1aac25060c5e05e31eb19a27ac8318df9277747268ffb0416927",
+      "kind": "uups"
+    },
+    {
+      "address": "0x60ACF27dB28Ae4B1B3a39687304Fbc9fF9A4bd34",
+      "txHash": "0xae6be65ac12791f57cffbdb170172a120d9d5aa12b980ff376545e2eb8c33b0c",
+      "kind": "uups"
+    },
+    {
+      "address": "0x14baB6dC2439797F2187E7b399A95eDdf231604c",
+      "txHash": "0xdefa44940825f6f0673f2fa8b0d34bbc28e4a4886c8d727c952d13ec2a5c3af8",
+      "kind": "uups"
+    },
+    {
+      "address": "0xaE7EaD8d6f864221f8d7d3bD62efcA093Df34F29",
+      "txHash": "0x131ec379dff8af8f9821bec24c9a75932ad406765b7e0d67f3aaa32771187669",
+      "kind": "uups"
+    },
+    {
+      "address": "0x142e3de172772773cFB0D3e9241C17Bd82766434",
+      "txHash": "0x3c167bd3f4c1911fe1c81db7613539c9bd8fd5151efcf4be0794d120facab513",
+      "kind": "uups"
+    },
+    {
+      "address": "0x00730C28eB92fF9475459e872a94485a3eBB60a0",
+      "txHash": "0x195e6585232912e2aacf53849fada13990cc912d8a44380ed1220ceb773480be",
+      "kind": "uups"
+    },
+    {
+      "address": "0x12790044f39198a9615951377256C477e208e384",
+      "txHash": "0xdb5d74b70c8aef8edc8e90caca9cd5600dbf33b1f63d3cf4057e26af2f034d01",
+      "kind": "uups"
+    },
+    {
+      "address": "0x70420fb5BEC181CFe5150c4b8260442861714fc1",
+      "txHash": "0x7be6e135f479bebba60bdf143186511cd73db1e69097d89d693cf8ef1fe74374",
+      "kind": "uups"
+    },
+    {
+      "address": "0xD1F9B54e577d52cF2805ac3D5927efC8C454DbbC",
+      "txHash": "0x3dd1406ad6dc5d047e78c36ee552800428d113fddfe5e833f1f734a2f9daeaec",
+      "kind": "uups"
+    },
+    {
+      "address": "0x174b8F0e6242F7c049503e0BC2D1F1018f1CB423",
+      "txHash": "0x7773fe17ce28f57e8c5965a3727edd354dbb8c336ad548ba8059b1075056708f",
+      "kind": "uups"
+    },
+    {
+      "address": "0x5F756BfC426707054e7bC2dB2171aD42018DC232",
+      "txHash": "0x535e5d5fc4899d9fc73b7d378b979862baf1938ba919f1512d9e4fb2430b5020",
+      "kind": "uups"
+    },
+    {
+      "address": "0x4Fee8AfDb6AdcB31bF5a4c8A021Ed4202EC591d3",
+      "txHash": "0x8e3e5885d6ce99eeaa67cc1ca29f5ff3df1f93d29abef5ec142426cc37899d7e",
+      "kind": "uups"
+    },
+    {
+      "address": "0x407e52301D45E4db85a731DC38662dA92636afC2",
+      "txHash": "0xc4cfe7cd6b4ddf2cf2b0b61e4680f350c0a586e9526a06e7d7d14cddc8d64714",
+      "kind": "uups"
+    },
+    {
+      "address": "0xBCc45Fa3C8eCBFC2E523B9aEBBbA9D040A94A626",
+      "txHash": "0xc79f404741a7d8438cd4b0bd0c54e7d0ade5421f31b99879262283f103508c49",
+      "kind": "uups"
+    },
+    {
+      "address": "0xABC667Abf43F407a1349c862284F03978b9d72ED",
+      "txHash": "0x6eeb00644f261a718d589b33d43dddaa7f27f8be50ee79580a1d3176dbcf8c52",
+      "kind": "uups"
+    },
+    {
+      "address": "0x320e2F711801B704fB60D7883d308df91b7Bb329",
+      "txHash": "0x1eb0a5ec04fe4edbe9dfb4b3e7745bc9e9a2bd26b3503ac30cd6c1ed09f5613d",
+      "kind": "uups"
+    },
+    {
+      "address": "0xefFc5f5A410B0fB2B8090a409c8b21Eea632FEE1",
+      "txHash": "0x1ebfbeff382b917479e6f217e306e3382a3ca708a3e78249e7e6c27858e05f19",
+      "kind": "uups"
+    },
+    {
+      "address": "0x06154cBc3871d6ad96066b0331F13f14eE8BC913",
+      "txHash": "0x8adade6d80fb1a3d6a76cb3db5e616fc06b7e9ca0e56435415c569650a1c7b3d",
+      "kind": "uups"
+    },
+    {
+      "address": "0x9dBCB5e6CDe42a25c35986099b43A89d67e3A87c",
+      "txHash": "0x5a6967ae92e01a5b446098ef0ad9ecbab3b904ca405a2a6e587d402fcf465b95",
+      "kind": "uups"
+    }
+  ],
+  "impls": {
+    "21cb1505ccd016c1138b967e3115a940bad1e179933bec217ac855553d50fe87": {
+      "address": "0xE77E87d3F0d567C5DB75b103856037432Fbc6767",
+      "txHash": "0x9e20d34a39f79bbf67171d65e637088f014a0610566b39c9bed777908390e31c",
+      "layout": {
+        "solcVersion": "0.8.21",
+        "storage": [
+          {
+            "label": "maxPlayers",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:20"
+          },
+          {
+            "label": "firstReward",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_uint256",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:21"
+          },
+          {
+            "label": "secondReward",
+            "offset": 0,
+            "slot": "2",
+            "type": "t_uint256",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:24"
+          },
+          {
+            "label": "thirdReward",
+            "offset": 0,
+            "slot": "3",
+            "type": "t_uint256",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:25"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "4",
+            "type": "t_contract(IERC20)1374",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:48"
+          },
+          {
+            "label": "pools",
+            "offset": 0,
+            "slot": "5",
+            "type": "t_array(t_struct(Pool)2103_storage)dyn_storage",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:48"
+          },
+          {
+            "label": "roundRewards",
+            "offset": 0,
+            "slot": "6",
+            "type": "t_mapping(t_address,t_array(t_struct(playerReward)2118_storage)dyn_storage)",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:49"
+          },
+          {
+            "label": "isPlayerParticipatedInRound",
+            "offset": 0,
+            "slot": "7",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_mapping(t_address,t_bool)))",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:53"
+          },
+          {
+            "label": "finishPayout",
+            "offset": 0,
+            "slot": "8",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_bool))",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:58"
+          },
+          {
+            "label": "rewards",
+            "offset": 0,
+            "slot": "9",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_uint256))",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:63"
+          },
+          {
+            "label": "totalRewards",
+            "offset": 0,
+            "slot": "10",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:64"
+          },
+          {
+            "label": "userRewards",
+            "offset": 0,
+            "slot": "11",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:64"
+          },
+          {
+            "label": "operator",
+            "offset": 0,
+            "slot": "12",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "FoundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FoundsMUltiPoolUpgradeERC20.sol:65"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Pool)2103_storage)dyn_storage": {
+            "label": "struct FoundsMUltiPoolUpgradeERC20.Pool[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(playerReward)2118_storage)dyn_storage": {
+            "label": "struct FoundsMUltiPoolUpgradeERC20.playerReward[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)1374": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_array(t_struct(playerReward)2118_storage)dyn_storage)": {
+            "label": "mapping(address => struct FoundsMUltiPoolUpgradeERC20.playerReward[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_bool)": {
+            "label": "mapping(uint256 => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_bool))": {
+            "label": "mapping(uint256 => mapping(address => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(uint256 => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_bool))": {
+            "label": "mapping(uint256 => mapping(uint256 => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_mapping(t_address,t_bool)))": {
+            "label": "mapping(uint256 => mapping(uint256 => mapping(address => bool)))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Round)2111_storage)": {
+            "label": "mapping(uint256 => struct FoundsMUltiPoolUpgradeERC20.Round)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_uint256)": {
+            "label": "mapping(uint256 => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Pool)2103_storage": {
+            "label": "struct FoundsMUltiPoolUpgradeERC20.Pool",
+            "members": [
+              {
+                "label": "minAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "rounds",
+                "type": "t_mapping(t_uint256,t_struct(Round)2111_storage)",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "roundsCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(Round)2111_storage": {
+            "label": "struct FoundsMUltiPoolUpgradeERC20.Round",
+            "members": [
+              {
+                "label": "totalFund",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "totalPlayers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "playerAddresses",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(playerReward)2118_storage": {
+            "label": "struct FoundsMUltiPoolUpgradeERC20.playerReward",
+            "members": [
+              {
+                "label": "poolIndex",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "roundIndex",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "reward",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64"
+          }
+        },
+        "namespaces": {
+          "erc7201:openzeppelin.storage.ReentrancyGuard": [
+            {
+              "contract": "ReentrancyGuardUpgradeable",
+              "label": "_status",
+              "type": "t_uint256",
+              "src": "@openzeppelin/contracts-upgradeable/utils/ReentrancyGuardUpgradeable.sol:40"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Ownable": [
+            {
+              "contract": "OwnableUpgradeable",
+              "label": "_owner",
+              "type": "t_address",
+              "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:24"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:69"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:73"
+            }
+          ]
+        }
+      }
+    },
+    "e9717509b7b7108d2f1d67fbe383093d25e3d1e8631d1e3887a0c7e663fa2126": {
+      "address": "0xFD59D66920bb4C87575AfD2F24C35852917E397A",
+      "txHash": "0x995b891b32c13fe0c3e960db365bf4781ee527e507cc6219ef9297a0d7bc2d74",
+      "layout": {
+        "solcVersion": "0.8.21",
+        "storage": [
+          {
+            "label": "maxPlayers",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:20"
+          },
+          {
+            "label": "firstReward",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:21"
+          },
+          {
+            "label": "secondReward",
+            "offset": 0,
+            "slot": "2",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:24"
+          },
+          {
+            "label": "thirdReward",
+            "offset": 0,
+            "slot": "3",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:26"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "4",
+            "type": "t_contract(IERC20)1374",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:49"
+          },
+          {
+            "label": "pools",
+            "offset": 0,
+            "slot": "5",
+            "type": "t_array(t_struct(Pool)2103_storage)dyn_storage",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:49"
+          },
+          {
+            "label": "roundRewards",
+            "offset": 0,
+            "slot": "6",
+            "type": "t_mapping(t_address,t_array(t_struct(playerReward)2118_storage)dyn_storage)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:50"
+          },
+          {
+            "label": "isPlayerParticipatedInRound",
+            "offset": 0,
+            "slot": "7",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_mapping(t_address,t_bool)))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:54"
+          },
+          {
+            "label": "finishPayout",
+            "offset": 0,
+            "slot": "8",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_bool))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:59"
+          },
+          {
+            "label": "rewards",
+            "offset": 0,
+            "slot": "9",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_uint256))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:64"
+          },
+          {
+            "label": "totalRewards",
+            "offset": 0,
+            "slot": "10",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:65"
+          },
+          {
+            "label": "userRewards",
+            "offset": 0,
+            "slot": "11",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:65"
+          },
+          {
+            "label": "operator",
+            "offset": 0,
+            "slot": "12",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:66"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_struct(InitializableStorage)45_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(OwnableStorage)14_storage": {
+            "label": "struct OwnableUpgradeable.OwnableStorage",
+            "members": [
+              {
+                "label": "_owner",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)105_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(ReentrancyGuardStorage)136_storage": {
+            "label": "struct ReentrancyGuardUpgradeable.ReentrancyGuardStorage",
+            "members": [
+              {
+                "label": "_status",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Pool)2103_storage)dyn_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Pool[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(playerReward)2118_storage)dyn_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.playerReward[]",
+            "numberOfBytes": "32"
+          },
+          "t_contract(IERC20)1374": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_array(t_struct(playerReward)2118_storage)dyn_storage)": {
+            "label": "mapping(address => struct FundsMUltiPoolUpgradeERC20.playerReward[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_bool)": {
+            "label": "mapping(uint256 => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_bool))": {
+            "label": "mapping(uint256 => mapping(address => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(uint256 => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_bool))": {
+            "label": "mapping(uint256 => mapping(uint256 => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_mapping(t_address,t_bool)))": {
+            "label": "mapping(uint256 => mapping(uint256 => mapping(address => bool)))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Round)2111_storage)": {
+            "label": "mapping(uint256 => struct FundsMUltiPoolUpgradeERC20.Round)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_uint256)": {
+            "label": "mapping(uint256 => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Pool)2103_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Pool",
+            "members": [
+              {
+                "label": "minAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "rounds",
+                "type": "t_mapping(t_uint256,t_struct(Round)2111_storage)",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "roundsCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(Round)2111_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Round",
+            "members": [
+              {
+                "label": "totalFund",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "totalPlayers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "playerAddresses",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(playerReward)2118_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.playerReward",
+            "members": [
+              {
+                "label": "poolIndex",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "roundIndex",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "reward",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          }
+        },
+        "namespaces": {
+          "erc7201:openzeppelin.storage.ReentrancyGuard": [
+            {
+              "contract": "ReentrancyGuardUpgradeable",
+              "label": "_status",
+              "type": "t_uint256",
+              "src": "@openzeppelin/contracts-upgradeable/utils/ReentrancyGuardUpgradeable.sol:40",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Ownable": [
+            {
+              "contract": "OwnableUpgradeable",
+              "label": "_owner",
+              "type": "t_address",
+              "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:24",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "d1cbda5554a24aafbfec7c2dbb3ce1b845861a25330fde63097f53505758768d": {
+      "address": "0x10f8d7865501B855CcbaF66600C6F824D0b3fc7E",
+      "txHash": "0xc39e63fcc6b09bfb28386ec55697acb3dec669a1a33a687d90887ca3059d94eb",
+      "layout": {
+        "solcVersion": "0.8.21",
+        "storage": [
+          {
+            "label": "maxPlayers",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:20"
+          },
+          {
+            "label": "firstReward",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:21"
+          },
+          {
+            "label": "secondReward",
+            "offset": 0,
+            "slot": "2",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:24"
+          },
+          {
+            "label": "thirdReward",
+            "offset": 0,
+            "slot": "3",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:26"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "4",
+            "type": "t_contract(IERC20)1374",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:49"
+          },
+          {
+            "label": "pools",
+            "offset": 0,
+            "slot": "5",
+            "type": "t_array(t_struct(Pool)2103_storage)dyn_storage",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:49"
+          },
+          {
+            "label": "roundRewards",
+            "offset": 0,
+            "slot": "6",
+            "type": "t_mapping(t_address,t_array(t_struct(playerReward)2118_storage)dyn_storage)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:50"
+          },
+          {
+            "label": "isPlayerParticipatedInRound",
+            "offset": 0,
+            "slot": "7",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_mapping(t_address,t_bool)))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:54"
+          },
+          {
+            "label": "finishPayout",
+            "offset": 0,
+            "slot": "8",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_bool))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:59"
+          },
+          {
+            "label": "rewards",
+            "offset": 0,
+            "slot": "9",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_uint256))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:64"
+          },
+          {
+            "label": "totalRewards",
+            "offset": 0,
+            "slot": "10",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:65"
+          },
+          {
+            "label": "userRewards",
+            "offset": 0,
+            "slot": "11",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:65"
+          },
+          {
+            "label": "operator",
+            "offset": 0,
+            "slot": "12",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:66"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Pool)2103_storage)dyn_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Pool[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(playerReward)2118_storage)dyn_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.playerReward[]",
+            "numberOfBytes": "32"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(IERC20)1374": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_array(t_struct(playerReward)2118_storage)dyn_storage)": {
+            "label": "mapping(address => struct FundsMUltiPoolUpgradeERC20.playerReward[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_bool)": {
+            "label": "mapping(uint256 => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_bool))": {
+            "label": "mapping(uint256 => mapping(address => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(uint256 => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_bool))": {
+            "label": "mapping(uint256 => mapping(uint256 => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_mapping(t_address,t_bool)))": {
+            "label": "mapping(uint256 => mapping(uint256 => mapping(address => bool)))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Round)2111_storage)": {
+            "label": "mapping(uint256 => struct FundsMUltiPoolUpgradeERC20.Round)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_uint256)": {
+            "label": "mapping(uint256 => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Pool)2103_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Pool",
+            "members": [
+              {
+                "label": "minAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "rounds",
+                "type": "t_mapping(t_uint256,t_struct(Round)2111_storage)",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "roundsCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(Round)2111_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Round",
+            "members": [
+              {
+                "label": "totalFund",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "totalPlayers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "playerAddresses",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(playerReward)2118_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.playerReward",
+            "members": [
+              {
+                "label": "poolIndex",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "roundIndex",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "reward",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64"
+          }
+        },
+        "namespaces": {
+          "erc7201:openzeppelin.storage.ReentrancyGuard": [
+            {
+              "contract": "ReentrancyGuardUpgradeable",
+              "label": "_status",
+              "type": "t_uint256",
+              "src": "@openzeppelin/contracts-upgradeable/utils/ReentrancyGuardUpgradeable.sol:40"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Ownable": [
+            {
+              "contract": "OwnableUpgradeable",
+              "label": "_owner",
+              "type": "t_address",
+              "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:24"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:69"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:73"
+            }
+          ]
+        }
+      }
+    },
+    "aea92820b536eb6c997b2513b43159b63f437dbf7d97a04f26686048d9ba819d": {
+      "address": "0x73D5679EDa861845E5d77af8Cd26D5424F8571a6",
+      "txHash": "0xf5ff2756a2b684d39056f4c91cd9e7f6c6b69b1838fcd923453014c2e83ae6d3",
+      "layout": {
+        "solcVersion": "0.8.21",
+        "storage": [
+          {
+            "label": "maxPlayers",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:20"
+          },
+          {
+            "label": "firstReward",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:21"
+          },
+          {
+            "label": "secondReward",
+            "offset": 0,
+            "slot": "2",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:24"
+          },
+          {
+            "label": "thirdReward",
+            "offset": 0,
+            "slot": "3",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:26"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "4",
+            "type": "t_contract(IERC20)1374",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:49"
+          },
+          {
+            "label": "pools",
+            "offset": 0,
+            "slot": "5",
+            "type": "t_array(t_struct(Pool)2103_storage)dyn_storage",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:49"
+          },
+          {
+            "label": "roundRewards",
+            "offset": 0,
+            "slot": "6",
+            "type": "t_mapping(t_address,t_array(t_struct(playerReward)2118_storage)dyn_storage)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:50"
+          },
+          {
+            "label": "isPlayerParticipatedInRound",
+            "offset": 0,
+            "slot": "7",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_mapping(t_address,t_bool)))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:54"
+          },
+          {
+            "label": "finishPayout",
+            "offset": 0,
+            "slot": "8",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_bool))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:59"
+          },
+          {
+            "label": "rewards",
+            "offset": 0,
+            "slot": "9",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_uint256))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:64"
+          },
+          {
+            "label": "totalRewards",
+            "offset": 0,
+            "slot": "10",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:65"
+          },
+          {
+            "label": "userRewards",
+            "offset": 0,
+            "slot": "11",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:65"
+          },
+          {
+            "label": "operator",
+            "offset": 0,
+            "slot": "12",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:66"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_struct(InitializableStorage)45_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(OwnableStorage)14_storage": {
+            "label": "struct OwnableUpgradeable.OwnableStorage",
+            "members": [
+              {
+                "label": "_owner",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)105_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(ReentrancyGuardStorage)136_storage": {
+            "label": "struct ReentrancyGuardUpgradeable.ReentrancyGuardStorage",
+            "members": [
+              {
+                "label": "_status",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Pool)2103_storage)dyn_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Pool[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(playerReward)2118_storage)dyn_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.playerReward[]",
+            "numberOfBytes": "32"
+          },
+          "t_contract(IERC20)1374": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_array(t_struct(playerReward)2118_storage)dyn_storage)": {
+            "label": "mapping(address => struct FundsMUltiPoolUpgradeERC20.playerReward[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_bool)": {
+            "label": "mapping(uint256 => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_bool))": {
+            "label": "mapping(uint256 => mapping(address => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(uint256 => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_bool))": {
+            "label": "mapping(uint256 => mapping(uint256 => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_mapping(t_address,t_bool)))": {
+            "label": "mapping(uint256 => mapping(uint256 => mapping(address => bool)))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Round)2111_storage)": {
+            "label": "mapping(uint256 => struct FundsMUltiPoolUpgradeERC20.Round)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_uint256)": {
+            "label": "mapping(uint256 => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Pool)2103_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Pool",
+            "members": [
+              {
+                "label": "minAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "rounds",
+                "type": "t_mapping(t_uint256,t_struct(Round)2111_storage)",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "roundsCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(Round)2111_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Round",
+            "members": [
+              {
+                "label": "totalFund",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "totalPlayers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "playerAddresses",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(playerReward)2118_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.playerReward",
+            "members": [
+              {
+                "label": "poolIndex",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "roundIndex",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "reward",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          }
+        },
+        "namespaces": {
+          "erc7201:openzeppelin.storage.ReentrancyGuard": [
+            {
+              "contract": "ReentrancyGuardUpgradeable",
+              "label": "_status",
+              "type": "t_uint256",
+              "src": "@openzeppelin/contracts-upgradeable/utils/ReentrancyGuardUpgradeable.sol:40",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Ownable": [
+            {
+              "contract": "OwnableUpgradeable",
+              "label": "_owner",
+              "type": "t_address",
+              "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:24",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "ac450be32c63e2aa67dc34752aa87970e259c414465ae08f1c3850c86649a450": {
+      "address": "0x42e7ABa5F9BFa6927F1b67C44651600c507D4146",
+      "txHash": "0xd1398f7ab90b56c1e82b5528a47846112f4339dafb6c3e6b137c8263092bf01b",
+      "layout": {
+        "solcVersion": "0.8.21",
+        "storage": [
+          {
+            "label": "maxPlayers",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:20"
+          },
+          {
+            "label": "firstReward",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:21"
+          },
+          {
+            "label": "secondReward",
+            "offset": 0,
+            "slot": "2",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:24"
+          },
+          {
+            "label": "thirdReward",
+            "offset": 0,
+            "slot": "3",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:26"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "4",
+            "type": "t_contract(IERC20)1374",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:49"
+          },
+          {
+            "label": "pools",
+            "offset": 0,
+            "slot": "5",
+            "type": "t_array(t_struct(Pool)2103_storage)dyn_storage",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:49"
+          },
+          {
+            "label": "roundRewards",
+            "offset": 0,
+            "slot": "6",
+            "type": "t_mapping(t_address,t_array(t_struct(playerReward)2118_storage)dyn_storage)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:50"
+          },
+          {
+            "label": "isPlayerParticipatedInRound",
+            "offset": 0,
+            "slot": "7",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_mapping(t_address,t_bool)))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:54"
+          },
+          {
+            "label": "finishPayout",
+            "offset": 0,
+            "slot": "8",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_bool))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:59"
+          },
+          {
+            "label": "rewards",
+            "offset": 0,
+            "slot": "9",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_uint256))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:64"
+          },
+          {
+            "label": "totalRewards",
+            "offset": 0,
+            "slot": "10",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:65"
+          },
+          {
+            "label": "userRewards",
+            "offset": 0,
+            "slot": "11",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:65"
+          },
+          {
+            "label": "operator",
+            "offset": 0,
+            "slot": "12",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:66"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_struct(InitializableStorage)45_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(OwnableStorage)14_storage": {
+            "label": "struct OwnableUpgradeable.OwnableStorage",
+            "members": [
+              {
+                "label": "_owner",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)105_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(ReentrancyGuardStorage)136_storage": {
+            "label": "struct ReentrancyGuardUpgradeable.ReentrancyGuardStorage",
+            "members": [
+              {
+                "label": "_status",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Pool)2103_storage)dyn_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Pool[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(playerReward)2118_storage)dyn_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.playerReward[]",
+            "numberOfBytes": "32"
+          },
+          "t_contract(IERC20)1374": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_array(t_struct(playerReward)2118_storage)dyn_storage)": {
+            "label": "mapping(address => struct FundsMUltiPoolUpgradeERC20.playerReward[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_bool)": {
+            "label": "mapping(uint256 => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_bool))": {
+            "label": "mapping(uint256 => mapping(address => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(uint256 => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_bool))": {
+            "label": "mapping(uint256 => mapping(uint256 => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_mapping(t_address,t_bool)))": {
+            "label": "mapping(uint256 => mapping(uint256 => mapping(address => bool)))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Round)2111_storage)": {
+            "label": "mapping(uint256 => struct FundsMUltiPoolUpgradeERC20.Round)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_uint256)": {
+            "label": "mapping(uint256 => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Pool)2103_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Pool",
+            "members": [
+              {
+                "label": "minAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "rounds",
+                "type": "t_mapping(t_uint256,t_struct(Round)2111_storage)",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "roundsCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(Round)2111_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Round",
+            "members": [
+              {
+                "label": "totalFund",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "totalPlayers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "playerAddresses",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(playerReward)2118_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.playerReward",
+            "members": [
+              {
+                "label": "poolIndex",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "roundIndex",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "reward",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          }
+        },
+        "namespaces": {
+          "erc7201:openzeppelin.storage.ReentrancyGuard": [
+            {
+              "contract": "ReentrancyGuardUpgradeable",
+              "label": "_status",
+              "type": "t_uint256",
+              "src": "@openzeppelin/contracts-upgradeable/utils/ReentrancyGuardUpgradeable.sol:40",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Ownable": [
+            {
+              "contract": "OwnableUpgradeable",
+              "label": "_owner",
+              "type": "t_address",
+              "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:24",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "3ccda022754a57629eb5477ee63d31b918789e605ed86da97398c3079c2d0d39": {
+      "address": "0x32f715a8db17E3AFAEd27229307087DF7A5690e1",
+      "txHash": "0x631fe1b1da570b6eae1fb9d7da270ccdbd884a3bdf8028c3a1ad4e4b79f0b9cf",
+      "layout": {
+        "solcVersion": "0.8.21",
+        "storage": [
+          {
+            "label": "usdt",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_contract(IERC20)1374",
+            "contract": "TokenExchangeContract",
+            "src": "contracts/01_TokenExchange.sol:15"
+          },
+          {
+            "label": "myToken",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_contract(IERC20)1374",
+            "contract": "TokenExchangeContract",
+            "src": "contracts/01_TokenExchange.sol:18"
+          },
+          {
+            "label": "exchangeRate",
+            "offset": 0,
+            "slot": "2",
+            "type": "t_uint256",
+            "contract": "TokenExchangeContract",
+            "src": "contracts/01_TokenExchange.sol:21"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_struct(InitializableStorage)45_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(OwnableStorage)14_storage": {
+            "label": "struct OwnableUpgradeable.OwnableStorage",
+            "members": [
+              {
+                "label": "_owner",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)105_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(ReentrancyGuardStorage)136_storage": {
+            "label": "struct ReentrancyGuardUpgradeable.ReentrancyGuardStorage",
+            "members": [
+              {
+                "label": "_status",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          },
+          "t_contract(IERC20)1374": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          }
+        },
+        "namespaces": {
+          "erc7201:openzeppelin.storage.ReentrancyGuard": [
+            {
+              "contract": "ReentrancyGuardUpgradeable",
+              "label": "_status",
+              "type": "t_uint256",
+              "src": "@openzeppelin/contracts-upgradeable/utils/ReentrancyGuardUpgradeable.sol:40",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Ownable": [
+            {
+              "contract": "OwnableUpgradeable",
+              "label": "_owner",
+              "type": "t_address",
+              "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:24",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "ba5772e32e9915ac259f1564fa18f496be5036a077edad8d244f4946354af569": {
+      "address": "0x58fFfCf201C1467A45F0BBb3ebf8DB30d57b5feE",
+      "txHash": "0xd0bd3341865996d88b7248c93077359857b9596436616b70709b24cf93339a48",
+      "layout": {
+        "solcVersion": "0.8.21",
+        "storage": [
+          {
+            "label": "usdt",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_contract(IERC20)1374",
+            "contract": "TokenExchangeContract",
+            "src": "contracts/01_TokenExchange.sol:15"
+          },
+          {
+            "label": "myToken",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_contract(IERC20)1374",
+            "contract": "TokenExchangeContract",
+            "src": "contracts/01_TokenExchange.sol:18"
+          },
+          {
+            "label": "exchangeRate",
+            "offset": 0,
+            "slot": "2",
+            "type": "t_uint256",
+            "contract": "TokenExchangeContract",
+            "src": "contracts/01_TokenExchange.sol:21"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_struct(InitializableStorage)45_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(OwnableStorage)14_storage": {
+            "label": "struct OwnableUpgradeable.OwnableStorage",
+            "members": [
+              {
+                "label": "_owner",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)105_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(ReentrancyGuardStorage)136_storage": {
+            "label": "struct ReentrancyGuardUpgradeable.ReentrancyGuardStorage",
+            "members": [
+              {
+                "label": "_status",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          },
+          "t_contract(IERC20)1374": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          }
+        },
+        "namespaces": {
+          "erc7201:openzeppelin.storage.ReentrancyGuard": [
+            {
+              "contract": "ReentrancyGuardUpgradeable",
+              "label": "_status",
+              "type": "t_uint256",
+              "src": "@openzeppelin/contracts-upgradeable/utils/ReentrancyGuardUpgradeable.sol:40",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Ownable": [
+            {
+              "contract": "OwnableUpgradeable",
+              "label": "_owner",
+              "type": "t_address",
+              "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:24",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "69adf465f76ed16c98e1ee7fd190f1f3030425c4363601b8646c85f084e1b657": {
+      "address": "0x0177A22455f3aaE6d96c6154d17cea51E8dd1b66",
+      "txHash": "0xd1fd26ee75b3e432de3030a691bf044bb1b1991fd8a53d74b8fb78179914bb3a",
+      "layout": {
+        "solcVersion": "0.8.21",
+        "storage": [
+          {
+            "label": "maxPlayers",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:20"
+          },
+          {
+            "label": "firstReward",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:21"
+          },
+          {
+            "label": "secondReward",
+            "offset": 0,
+            "slot": "2",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:24"
+          },
+          {
+            "label": "thirdReward",
+            "offset": 0,
+            "slot": "3",
+            "type": "t_uint256",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:26"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "4",
+            "type": "t_contract(IERC20)1374",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:49"
+          },
+          {
+            "label": "pools",
+            "offset": 0,
+            "slot": "5",
+            "type": "t_array(t_struct(Pool)2103_storage)dyn_storage",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:49"
+          },
+          {
+            "label": "roundRewards",
+            "offset": 0,
+            "slot": "6",
+            "type": "t_mapping(t_address,t_array(t_struct(playerReward)2118_storage)dyn_storage)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:50"
+          },
+          {
+            "label": "isPlayerParticipatedInRound",
+            "offset": 0,
+            "slot": "7",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_mapping(t_address,t_bool)))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:54"
+          },
+          {
+            "label": "finishPayout",
+            "offset": 0,
+            "slot": "8",
+            "type": "t_mapping(t_uint256,t_mapping(t_uint256,t_bool))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:59"
+          },
+          {
+            "label": "rewards",
+            "offset": 0,
+            "slot": "9",
+            "type": "t_mapping(t_uint256,t_mapping(t_address,t_uint256))",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:64"
+          },
+          {
+            "label": "totalRewards",
+            "offset": 0,
+            "slot": "10",
+            "type": "t_mapping(t_uint256,t_uint256)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:65"
+          },
+          {
+            "label": "userRewards",
+            "offset": 0,
+            "slot": "11",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:65"
+          },
+          {
+            "label": "operator",
+            "offset": 0,
+            "slot": "12",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "FundsMUltiPoolUpgradeERC20",
+            "src": "contracts/01_FundsMUltiPoolUpgradeERC20.sol:66"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_struct(InitializableStorage)45_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(OwnableStorage)14_storage": {
+            "label": "struct OwnableUpgradeable.OwnableStorage",
+            "members": [
+              {
+                "label": "_owner",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(PausableStorage)105_storage": {
+            "label": "struct PausableUpgradeable.PausableStorage",
+            "members": [
+              {
+                "label": "_paused",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(ReentrancyGuardStorage)136_storage": {
+            "label": "struct ReentrancyGuardUpgradeable.ReentrancyGuardStorage",
+            "members": [
+              {
+                "label": "_status",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(Pool)2103_storage)dyn_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Pool[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_struct(playerReward)2118_storage)dyn_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.playerReward[]",
+            "numberOfBytes": "32"
+          },
+          "t_contract(IERC20)1374": {
+            "label": "contract IERC20",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_array(t_struct(playerReward)2118_storage)dyn_storage)": {
+            "label": "mapping(address => struct FundsMUltiPoolUpgradeERC20.playerReward[])",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_bool)": {
+            "label": "mapping(uint256 => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_bool))": {
+            "label": "mapping(uint256 => mapping(address => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(uint256 => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_bool))": {
+            "label": "mapping(uint256 => mapping(uint256 => bool))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_mapping(t_uint256,t_mapping(t_address,t_bool)))": {
+            "label": "mapping(uint256 => mapping(uint256 => mapping(address => bool)))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Round)2111_storage)": {
+            "label": "mapping(uint256 => struct FundsMUltiPoolUpgradeERC20.Round)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_uint256)": {
+            "label": "mapping(uint256 => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Pool)2103_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Pool",
+            "members": [
+              {
+                "label": "minAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "rounds",
+                "type": "t_mapping(t_uint256,t_struct(Round)2111_storage)",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "roundsCount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(Round)2111_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.Round",
+            "members": [
+              {
+                "label": "totalFund",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "totalPlayers",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "playerAddresses",
+                "type": "t_array(t_address)dyn_storage",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          },
+          "t_struct(playerReward)2118_storage": {
+            "label": "struct FundsMUltiPoolUpgradeERC20.playerReward",
+            "members": [
+              {
+                "label": "poolIndex",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "roundIndex",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "reward",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              }
+            ],
+            "numberOfBytes": "96"
+          }
+        },
+        "namespaces": {
+          "erc7201:openzeppelin.storage.ReentrancyGuard": [
+            {
+              "contract": "ReentrancyGuardUpgradeable",
+              "label": "_status",
+              "type": "t_uint256",
+              "src": "@openzeppelin/contracts-upgradeable/utils/ReentrancyGuardUpgradeable.sol:40",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Ownable": [
+            {
+              "contract": "OwnableUpgradeable",
+              "label": "_owner",
+              "type": "t_address",
+              "src": "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol:24",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Pausable": [
+            {
+              "contract": "PausableUpgradeable",
+              "label": "_paused",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/utils/PausableUpgradeable.sol:21",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
