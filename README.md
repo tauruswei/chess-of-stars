@@ -29,4 +29,13 @@ npx hardhat run scripts/01_TokenExchange.js --network bsctestnet
 # 0x06154cBc3871d6ad96066b0331F13f14eE8BC913 是代理合约地址
 npx hardhat verify --network bsctestnet --contract contracts/01_TokenExchange.sol:TokenExchangeContract 0x06154cBc3871d6ad96066b0331F13f14eE8BC913
 ```
+升级合约
+```shell
+npx hardhat run scripts/02_TokenExchange.js --network bsctestnet
+```
+将合约上传到 bsc 浏览器
+```shell
+# 0x06154cBc3871d6ad96066b0331F13f14eE8BC913 是代理合约地址
+npx hardhat verify --network bsctestnet --contract contracts/02_TokenExchange.sol:TokenExchangeContractV2 0x06154cBc3871d6ad96066b0331F13f14eE8BC913
+```
 
