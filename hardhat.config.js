@@ -1,6 +1,9 @@
 require("@nomiclabs/hardhat-ethers");
 require("@openzeppelin/hardhat-upgrades");
-require("dotenv").config();
+const path = require("@sentry/utils");
+global.MY_ENV_PATH = path.join(path.dirname(__dirname), 'chess-of-stars','.env');
+
+require("dotenv").config({ path: MY_ENV_PATH });
 
 
 // You need to export an object to set up your config
@@ -10,6 +13,7 @@ const REPORT_GAS = process.env.REPORT_GAS || false
 const BSCTESTNET_RPC_URL = process.env.BSCTESTNET_RPC_URL || "https://data-seed-prebsc-1-s1.binance.org:8545"
 const BSCSCAN_API_KEY = process.env.BSCSCAN_API_KEY || "Your etherscan API key"
 const PRIVATE_KEY = process.env.PRIVATE_KEY || "0x"
+
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
@@ -58,11 +62,19 @@ module.exports = {
             saveDeployments: true,
             chainId: 97,
         },
+        bscmainnet: {
+            url: BSCTESTNET_RPC_URL,
+            accounts: PRIVATE_KEY !== undefined ? [PRIVATE_KEY] : [],
+            saveDeployments: true,
+            chainId: 56,
+        },
     },
     etherscan: {
         // npx hardhat verify --network <NETWORK> <CONTRACT_ADDRESS> <CONSTRUCTOR_PARAMETERS>
         apiKey: {
             bscTestnet: BSCSCAN_API_KEY,
+            bscMainnet: BSCSCAN_API_KEY,
+            bsc: BSCSCAN_API_KEY,
         },
     },
     // gasReporter: {

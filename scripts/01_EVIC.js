@@ -1,8 +1,8 @@
-require("dotenv").config();
+require("dotenv").config({ path: MY_ENV_PATH || '.env' });
 const hre = require("hardhat");
 const fs = require('fs');
 const path = require('path');
-const dotenv = require('dotenv'); // 导入 dotenv
+
 
 async function main() {
     // 获取合约工厂
@@ -18,20 +18,24 @@ async function main() {
 
 }
 function updateENV(key, value) {
-    // const envPath = path.join(__dirname, '.env');
-    const envPath = path.join(path.dirname(__dirname), '.env');
+    const envPath = MY_ENV_PATH || path.join(__dirname, '.env');
 
-    // 读取 .env 文件
-    const envConfig = dotenv.parse(fs.readFileSync(envPath));
+    // 读取 .env 文件内容
+    const envConfig = fs.readFileSync(envPath, 'utf-8')
+        .split('\n')
+        .filter(line => line.trim())
+        .reduce((acc, line) => {
+            let [key, value] = line.split('=');
+            acc[key.trim()] = value.trim();
+            return acc;
+        }, {});
 
-    // 更新或添加 FUND_POOLS_ADDRESS
     envConfig[key] = value;
 
-    // 将更新后的配置写回 .env 文件
     let updatedEnvContent = '';
-    Object.keys(envConfig).forEach(key => {
-        updatedEnvContent += `${key}=${envConfig[key]}\n`;
-    });
+    for (const [key, value] of Object.entries(envConfig)) {
+        updatedEnvContent += `${key}=${value}\n`;
+    }
     fs.writeFileSync(envPath, updatedEnvContent);
 }
 
